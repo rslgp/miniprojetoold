@@ -1,0 +1,24 @@
+{
+  "name": "miniprojeto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  },
+  "scripts": {
+    "start": "node --max-old-space-size=436 src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rslgp/miniprojeto.git"
+  },
+  "author": "rafael.pereira@elife.com.br",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rslgp/miniprojeto/issues"
+  },
+  "homepage": "https://github.com/rslgp/miniprojeto#readme"
+}
